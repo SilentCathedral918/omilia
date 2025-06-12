@@ -1,2 +1,2 @@
 # omilia
-Offline chatbot that generates natural responses, leveraging the GPT-2 model
+A lightweight, custom transformer decoder model with SentencePiece tokenisation, designed for sequence modelling and conversational fine-tuning.
